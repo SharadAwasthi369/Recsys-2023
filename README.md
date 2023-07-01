@@ -11,3 +11,6 @@ Random Forest: A popular ensemble learning method that combines multiple decisio
 XGBoost: An optimized gradient boosting framework known for its speed and performance. The XGBoost model in this system is capable of handling large-scale datasets efficiently and producing high-quality recommendations.
 
 By using multiple models, Recys 2023 aims to provide diverse and reliable recommendations to users.
+
+
+# From ApheliaAI
